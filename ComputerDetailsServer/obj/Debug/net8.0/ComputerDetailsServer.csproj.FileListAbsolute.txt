@@ -1,0 +1,14 @@
+/Users/alexuntilov/RiderProjects/ComputerDetailsServer/ComputerDetailsServer/bin/Debug/net8.0/ComputerDetailsServer
+/Users/alexuntilov/RiderProjects/ComputerDetailsServer/ComputerDetailsServer/bin/Debug/net8.0/ComputerDetailsServer.deps.json
+/Users/alexuntilov/RiderProjects/ComputerDetailsServer/ComputerDetailsServer/bin/Debug/net8.0/ComputerDetailsServer.runtimeconfig.json
+/Users/alexuntilov/RiderProjects/ComputerDetailsServer/ComputerDetailsServer/bin/Debug/net8.0/ComputerDetailsServer.dll
+/Users/alexuntilov/RiderProjects/ComputerDetailsServer/ComputerDetailsServer/bin/Debug/net8.0/ComputerDetailsServer.pdb
+/Users/alexuntilov/RiderProjects/ComputerDetailsServer/ComputerDetailsServer/obj/Debug/net8.0/ComputerDetailsServer.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alexuntilov/RiderProjects/ComputerDetailsServer/ComputerDetailsServer/obj/Debug/net8.0/ComputerDetailsServer.AssemblyInfoInputs.cache
+/Users/alexuntilov/RiderProjects/ComputerDetailsServer/ComputerDetailsServer/obj/Debug/net8.0/ComputerDetailsServer.AssemblyInfo.cs
+/Users/alexuntilov/RiderProjects/ComputerDetailsServer/ComputerDetailsServer/obj/Debug/net8.0/ComputerDetailsServer.csproj.CoreCompileInputs.cache
+/Users/alexuntilov/RiderProjects/ComputerDetailsServer/ComputerDetailsServer/obj/Debug/net8.0/ComputerDetailsServer.dll
+/Users/alexuntilov/RiderProjects/ComputerDetailsServer/ComputerDetailsServer/obj/Debug/net8.0/refint/ComputerDetailsServer.dll
+/Users/alexuntilov/RiderProjects/ComputerDetailsServer/ComputerDetailsServer/obj/Debug/net8.0/ComputerDetailsServer.pdb
+/Users/alexuntilov/RiderProjects/ComputerDetailsServer/ComputerDetailsServer/obj/Debug/net8.0/ComputerDetailsServer.genruntimeconfig.cache
+/Users/alexuntilov/RiderProjects/ComputerDetailsServer/ComputerDetailsServer/obj/Debug/net8.0/ref/ComputerDetailsServer.dll
